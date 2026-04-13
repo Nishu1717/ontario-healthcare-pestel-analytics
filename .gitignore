@@ -1,0 +1,5 @@
+*.docx
+*.pptx
+*.pages
+__pycache__/
+.ipynb_checkpoints/
